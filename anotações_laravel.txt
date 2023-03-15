@@ -1,0 +1,5 @@
+php artisan serve <liga o servidor laravel>
+
+php artisan make:(request) (main\pasta_A\pasta_B)
+    <cria um arquivo conforme o comando ex. request>
+    <todo o caminho da pasta que o arquivo vai ficar ex. main\.......>
